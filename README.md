@@ -1,7 +1,15 @@
-# Binary search tree
-A project where I implement a binary search tree.
+# Binary Search Tree
 
-### functions:
-1) Traverse the tree
-2) Search the tree
-3) Delete a node from the tree
+A small, simple Binary Search Tree implementation in Java. Made for educational purposes while reading *Grokking Algorithms and Data Structures*, and for fun.
+
+## Features
+
+- Insert nodes
+- In-order traversal
+- Search for a value
+- Delete a node (re-links subtrees automatically)
+
+```bash
+javac src/com/company/*.java
+java -cp src com.company.Main
+```
